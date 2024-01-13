@@ -1,0 +1,16 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "Weather Project using Express Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bitu Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "requests": "^0.3.0"
+  }
+}
